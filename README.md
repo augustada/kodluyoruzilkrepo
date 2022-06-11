@@ -31,3 +31,5 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 ## License
 
 [MIT]()
+
+![Projenin resmi]("C:\Users\ozqeu\OneDrive\Masaüstü\Yeni klasör\kodluyoruzilkrepo\Ekran Görüntüsü (12).png")
