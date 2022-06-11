@@ -31,5 +31,3 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 ## License
 
 [MIT]()
-
-![Projenin resmi]("Ekran Görüntüsü (12).png")
