@@ -32,4 +32,4 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 
 [MIT]()
 
-![Projenin resmi]("C:\Users\ozqeu\OneDrive\Masaüstü\Yeni klasör\kodluyoruzilkrepo\Ekran Görüntüsü (12).png")
+![Projenin resmi]("Ekran Görüntüsü (12).png")
